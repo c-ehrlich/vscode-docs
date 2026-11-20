@@ -515,7 +515,7 @@ Set the auth header with the `OTEL_EXPORTER_OTLP_HEADERS` environment variable. 
 
 ### Other backends
 
-Any OTLP-compatible backend works, including [Grafana Tempo](https://grafana.com/oss/tempo/), [Honeycomb](https://www.honeycomb.io/), and [Datadog](https://www.datadoghq.com/). Refer to each backend's documentation for OTLP ingestion setup.
+Any OTLP-compatible backend works, including [Grafana Tempo](https://grafana.com/oss/tempo/), [Honeycomb](https://www.honeycomb.io/), [Datadog](https://www.datadoghq.com/), and [Axiom](https://axiom.co/). Refer to each backend's documentation for OTLP ingestion setup.
 
 ## Other exporter examples
 
